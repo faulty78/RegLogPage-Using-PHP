@@ -2,13 +2,12 @@
 
 ## Overview
 
-This project is a simple registration and login system built using PHP and MySQL. It allows users to register with a username and password, and then log in with their credentials. The system uses phpMyAdmin for database management.
+This project is a simple registration and login system built using PHP. It allows users to register with a username and password, and then log in with their credentials. The system uses phpMyAdmin for database management.
 
 ## Features
 
 - User registration with validation
 - User login with session management
-- Password hashing for security
 - Basic error handling
 
 ## Requirements
