@@ -27,8 +27,7 @@ Download and install XAMPP from the [official website](https://www.apachefriends
 ### Step 2: Clone the Repository
 
 Clone this repository to your local machine using:
-```bash
-git clone https://github.com/faulty78/RegLogPage-Using-PHP.git
+`git clone https://github.com/faulty78/RegLogPage-Using-PHP.git`
 
 
 ### Step 3: Move to the 'htdocs' Directory
@@ -54,12 +53,12 @@ Open the XAMPP Control Panel and start the Apache and MySQL modules.
 
 Open the **'config.php'** file in the project directory and configure the database connection settings:
 
-```<?php
+`<?php
    $host = 'localhost';
    $dbname = 'userdb';
    $username = 'root';
    $password = '';
-   ?>```
+   ?>`
 
 Replace the values with your actual database credentials if they are different.
 
